@@ -1,0 +1,12 @@
+numpy
+pandas
+torchaudio
+torch
+librosa
+datasets
+transformers
+jiwer
+jieba
+editdistance
+tensorboard
+fairscale
