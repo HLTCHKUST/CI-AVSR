@@ -24,7 +24,4 @@ The originally collected data, including `train_clean.csv`, `valid_clean.csv`, `
 The noise augmented data, including `train_noisy.csv`, `valid_noisy.csv`, `test_noisy.csv`. In addition, there is also a out-of-domain test set `test_noisy_ood.csv` to evaluate the generalization of models, i.e. these noises are not in the training set.
 
 ### Data Download
-[[CI-AVSR Dataset]](https://drive.google.com/file/d/1ov4hfcL4oPncE6H4ZeAwJRp9dpUJP1Zr/view?usp=sharing) We provide the processed CI-AVSR dataset with audios, image frames (25 per seconds), annotations, and augmentation. 
-
-[[Raw Videos]](https://drive.google.com/file/d/1uv-IUGx0Msxo1WHZxKGqYMwXHTulUyl4/view?usp=sharing) Just in case, we also provide the unprocessed raw videos (you may not need to use them).
-
+[[CI-AVSR at Kaggle]](https://www.kaggle.com/c/ci-avsr/data) We provide the processed CI-AVSR dataset with audios, image frames (25 per seconds), annotations, and augmentation. 
